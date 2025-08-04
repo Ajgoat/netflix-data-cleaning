@@ -1,0 +1,23 @@
+# Ignore dataset files
+netflix_titles.csv
+netflix_titles_cleaned.csv
+*.xls
+
+# Python-related
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Environment files
+*.env
+.env
+.venv/
+venv/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Output and temporary files
+*.csv
+*.log
